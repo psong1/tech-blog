@@ -42,8 +42,7 @@ User.init(
         return updateUserData;
       },
     },
-  },
-  {
+
     sequelize,
     timestamps: false,
     freezeTableName: true,
